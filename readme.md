@@ -1,6 +1,6 @@
 ## Walker
 
-![0](readme.assets\0.gif)![0](readme.assets\0-1722841915690.gif)![4](\readme.assets\4.gif)![3](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\3.gif)![1](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\1-1722842052322.gif)![0](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\0-1722842045033.gif)![2](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\2-1722841932788.gif)![1](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\1.gif) ![0](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\0-1722841712319.gif)
+![0](readme.assets\0.gif)![0](readme.assets\0-1722841915690.gif)![4](\readme.assets\4.gif)![3](readme.assets\3.gif)![1](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\1-1722842052322.gif)![0](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\0-1722842045033.gif)![2](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\2-1722841932788.gif)![1](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\1.gif) ![0](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\0-1722841712319.gif)
 
 ![3](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\3-1722844502283.gif)![4](D:\学习\强化学习\Skill Discovery\Paper\video\re\walker\flip\4.gif)
 

@@ -1,7 +1,7 @@
 ## Walker
 
 ![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/1.gif)
-![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722841712319.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722842045033.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/3.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/1-1722842052322.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722841915690.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/2-1722841932788.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/3-1722844502283.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/4.gif)
+![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722841712319.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722842045033.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/3.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/1-1722842052322.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722841915690.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/2-1722841932788.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/3-1722844502283.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/4.gif)![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/4-1722850145151.gif)
 
 
 

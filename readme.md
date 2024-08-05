@@ -4,8 +4,7 @@
 
 ![3](D:\学习\强化学习\Skill Discovery\Paper\video\readme.assets\3-1722844502283.gif)![4](D:\学习\强化学习\Skill Discovery\Paper\video\re\walker\flip\4.gif)
 
-
-
+![image](https://github.com/Gabriel001217/visual/blob/master/readme.assets/0-1722841712319.gif)
 
 
 
